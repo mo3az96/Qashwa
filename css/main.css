@@ -499,6 +499,10 @@ html[dir='ltr'] .newsletter-button:after {
   margin: 0 12px;
 }
 
+html[dir='ltr'] .nav-li {
+  margin: 0 9px;
+}
+
 .nav-a {
   font-size: 17px;
   color: #63432d;
@@ -2503,8 +2507,7 @@ html[dir='ltr'] nav .mo-menu-close {
     width: 100%;
   }
   html[dir='ltr'] nav .nav-li {
-    margin: 0;
-    margin-bottom: 4px;
+    margin: 7px 0;
   }
   nav .nav-a {
     color: #63432d;
